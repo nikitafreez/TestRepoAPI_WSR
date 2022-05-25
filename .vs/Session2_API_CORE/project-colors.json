@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7002d2a-accf-493d-af6f-1d22e5fc976a": {
+      "ProjectGuid": "a7002d2a-accf-493d-af6f-1d22e5fc976a",
+      "DisplayName": "Session2_API_CORE",
+      "ColorIndex": 0
+    },
+    "1e0363a1-9d67-4c2d-9525-a1702508d8d4": {
+      "ProjectGuid": "1e0363a1-9d67-4c2d-9525-a1702508d8d4",
+      "DisplayName": "LoyalryCard_UNIT_TEST",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
